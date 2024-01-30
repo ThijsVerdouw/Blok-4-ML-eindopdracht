@@ -1,4 +1,5 @@
 # MADS-exam-24
+-- 30-jan-2024: added task execution information at the bottom
 
 This year, the junior has learned quit a lot about machine learning.
 He is pretty confident he wont make the same mistakes as last year; this year, he has helped you out by doing some data exploration for you, and he even created two models!
